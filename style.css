@@ -33,6 +33,10 @@ body {
     font-size: 5em;
     padding-top:15%;
 }
+.element:hover {
+    cursor: pointer;
+}
+
 .element:nth-child(5) {
     border: 2px solid;
 }
